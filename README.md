@@ -1,0 +1,2 @@
+# MeRePosApp-
+MeRe PosApp (Medical Record Point Of Sale And Appointment): It's a Open source EMR (Electronic Medical Record), to create an entire ecosystem than work for almost any doctor it doesn’t matter their specialty; to make easier their road to the digitalization and make an efficient use of the source at time to work with Medical Records, Appointments, Bills and some other cool features like Loans, Payment Agreement, Emergencies, Admission and much more.
