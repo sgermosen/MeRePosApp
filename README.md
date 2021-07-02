@@ -26,7 +26,7 @@ The Roadmap of learning path can change on the future, but for now will be this 
 - Software and internet engineering.
 - Web Programing with **Html**, CSS and JavaScript.
 - Product implementation with **Hosting**/VPS/Linux/Azure App Service.
-- Commercializing your product.
+- Creating a M.inimun V.iable P.roduct and commercializing ideas.
 - Backend development with .Net Core.
 - Frontend development with **.Net Core MVC and jQuery**/Xamarin/Flutter/React/Angular
 
