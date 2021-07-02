@@ -16,16 +16,17 @@ The Roadmap of learning path can change on the future, but for now will be this 
 
 - Logic and think like programmers.
 - Work with the paper.
-- Algorithm.
-- Structured programming with C++/JavaScript.
+- Algorithm with Pseint.
+- Flowchart with Raptor.
+- Structured programming with **C++**/JavaScript.
 - Digitalize the world with Paint.
-- Relational Databases with SQL.
-- Object Oriented Programing with C#/JavaScript.
-- Organize your project with GitHub and understanding the client requirements to become a freelancer.
-- Web Programing with Html, CSS and JavaScript.
-- Product implementation with Hosting/VPS/Linux/Azure App Service.
+- Relational Databases with Ms SQL Server.
+- Object Oriented Programing with **C#**/JavaScript.
+- Organize your project with **GitHub** and understanding the client requirements to become a freelancer.
+- Web Programing with **Html**, CSS and JavaScript.
+- Product implementation with **Hosting**/VPS/Linux/Azure App Service.
 - Commercializing your product.
 - Backend development with .Net Core.
-- Frontend development with .Net Core MVC and jQuery/Xamarin/Flutter/React/Angular
+- Frontend development with **.Net Core MVC and jQuery**/Xamarin/Flutter/React/Angular
 
 
