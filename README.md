@@ -23,6 +23,7 @@ The Roadmap of learning path can change on the future, but for now will be this 
 - Relational Databases with Ms SQL Server.
 - Object Oriented Programing with **C#**/JavaScript.
 - Organize your project with **GitHub** and understanding the client requirements to become a freelancer.
+- Internet.
 - Web Programing with **Html**, CSS and JavaScript.
 - Product implementation with **Hosting**/VPS/Linux/Azure App Service.
 - Commercializing your product.
