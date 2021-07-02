@@ -1,8 +1,8 @@
 # MeRePosApp
 
-MeRe PosApp (Medical Record Point Of Sale And Appointment): It's a Open source EMR (Electronic Medical Record), to create an entire ecosystem than work for almost any doctor it doesn’t matter their specialty; to make easier their road to the digitalization and make an efficient use of the source at time to work with Medical Records, Appointments, Bills and some other cool features like Loans, Payment Agreement, Emergencies, Admission and much more.
+# Medical Record Point Of Sale And Appointment
 
-MeRe PosApp (Medical Record Point Of Sale And Appointment): It's a Open source EMR (Electronic Medical Record), to create an entire ecosystem than work for almost any doctor it doesn’t matter their specialty; to make easier their road to the digitalization and make an efficient use of the source at time to work with Medical Records, Appointments, Bills and some other cool features like Loans, Payment Agreement, Emergencies, Admission and much more.
+It's a Open source **EMR (Electronic Medical Record)**, to create an entire ecosystem than work for almost any doctor it doesn’t matter their specialty; to make easier their road to the digitalization and make an efficient use of the source at time to work with **Medical Records, Appointments, Bills** and some other cool features like **Loans, Payment Agreement, Emergencies, Admission** and much more.
 
 The main objective of this project is not to be a commercial product as it, on the first part, because it will be part of a course than will make you learn how to program from zero to a real-world profitable project in a mix of some technologies than have been worked at mid and expert level in practice. 
 
@@ -14,18 +14,18 @@ But, how its open and the implementation than will be used here, are implemented
 
 The Roadmap of learning path can change on the future, but for now will be this one.
 
-*Logic and think like programmers.
-*Work with the paper.
-*Algorithm.
-*Structured programming with C++/JavaScript.
-*Digitalize the world with Paint.
-*Relational Databases with SQL.
-*Object Oriented Programing with C#/JavaScript.
-*Organize your project with GitHub and understanding the client requirements to become a freelancer.
-*Web Programing with Html, CSS and JavaScript.
-*Product implementation with Hosting/VPS/Linux/Azure App Service.
-*Commercializing your product.
-*Backend development with .Net Core.
-*Frontend development with .Net Core MVC and jQuery/Xamarin/Flutter/React/Angular
+- Logic and think like programmers.
+- Work with the paper.
+- Algorithm.
+- Structured programming with C++/JavaScript.
+- Digitalize the world with Paint.
+- Relational Databases with SQL.
+- Object Oriented Programing with C#/JavaScript.
+- Organize your project with GitHub and understanding the client requirements to become a freelancer.
+- Web Programing with Html, CSS and JavaScript.
+- Product implementation with Hosting/VPS/Linux/Azure App Service.
+- Commercializing your product.
+- Backend development with .Net Core.
+- Frontend development with .Net Core MVC and jQuery/Xamarin/Flutter/React/Angular
 
 
